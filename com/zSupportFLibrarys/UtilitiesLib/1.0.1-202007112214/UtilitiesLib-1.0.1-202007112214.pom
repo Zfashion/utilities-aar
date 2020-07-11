@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.zSupportFLibrarys</groupId>
   <artifactId>UtilitiesLib</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.1-202007112214</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
